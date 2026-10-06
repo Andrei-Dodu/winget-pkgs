@@ -10,7 +10,7 @@ Commands:
   - hugin
 Installers:
   - Architecture: x64
-    InstallerUrl: https://hugin.nu/releases/v0.4.42/hugin-cli-windows-x86_64.exe
+    InstallerUrl: https://github.com/HuginCyber/Hugin/releases/download/v0.4.42/hugin-cli-windows-x86_64.exe
     InstallerSha256: 449A7CD6E6839BFF4923CC3A411C2165D0D829A29A4283428D8D2E49E5D9DC9F
 ManifestType: installer
 ManifestVersion: 1.12.0
